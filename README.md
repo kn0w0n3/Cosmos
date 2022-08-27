@@ -12,3 +12,7 @@ Based on Qt 5.14.2 (MSVC 2017, 32 bit)
 Built on Jun 16 2020 01:19:17  
 From revision 48e46132e3  
 https://www.qt.io/   
+
+## Controls  
+
+Use the arrow keys to walk or crouch, spacebar to jump, and the f key to fire.  
