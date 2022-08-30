@@ -1,7 +1,7 @@
 # Cosmos
 Cosmos Game   
 
-![Cosmos_8_26_22](https://user-images.githubusercontent.com/22214754/187007422-2c71b2be-faa5-4b27-89dd-ea777ac50088.gif)    
+![Cosmos_8_26_22](https://user-images.githubusercontent.com/22214754/187320118-d4605aaf-29eb-4e71-aad5-a60b813eb428.gif)     
 
 ## Built with:    
 ![QtLogo](https://user-images.githubusercontent.com/22214754/179895211-d52559ab-35df-4fcc-bf69-7377739330d4.png)  
